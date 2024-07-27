@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1648580209 source:d:\liceu\info\x\aplicatie\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<windows.h>
+
+1648580209 source:d:\liceu\info\10\aplicatie\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<windows.h>
+
